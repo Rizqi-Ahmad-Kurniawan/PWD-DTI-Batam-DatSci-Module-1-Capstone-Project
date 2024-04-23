@@ -1,7 +1,7 @@
 from tabulate import tabulate  
 from Data_Class import AllData, DoctorData
 from Data_DB import MainDB
-import pandas as pd
+# import pandas as pd
 
 # DOCTOR Functions
 
