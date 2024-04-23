@@ -1,7 +1,12 @@
 # PWD-DTI-Batam-DatSci-Module-1-Capstone-Project
-# ✨✨✨ Capstone_Projct_1_Purwadhika ✨✨✨
+# ✨✨✨ Capstone_Project_1_Purwadhika ✨✨✨
 
 # Patient Record System
+
+
+## Presentation (visual overview)
+Canva Link: -
+
 
 ## Overview
 - Capstone project for learning module 1 of Purwadhika DTI Data Science Program. 
@@ -10,8 +15,9 @@
 - The Users of the CLI-App are "Administrators" and "Doctors", each with its own set of User Interface features.
 - The theme/case of the CLI-App is to create a Medical Data Management System (with user authentication) where "Admins" can manage Doctor and Patient Data and "Doctors" can view and edit (input/renew) Patient data as needed.
 
+
 ## Features (main | explicit)
-> as Admin ->
+> as ADMIN ->
 - Display patient data
 - Display doctor data
 - Add patient data
@@ -20,9 +26,10 @@
 - Edit doctor data
 - Delete patient data
 - Delete doctor data
-> as Doctor ->
+> as DOCTOR ->
 - Display patient data
 - Edit patient data (MedData)
+
 
 ## Features (additional | implicit)
 - OOP implementation (modular database)
@@ -31,6 +38,7 @@
 - User Authentication with password attempt limit
 - Input Validation (based on datatype and Patient or DoctorID)
 
+
 ## Usage
 1. Clone repository to your local machine: https://github.com/Rizqi-Ahmad-Kurniawan/PWD-DTI-Batam-DatSci-Module-1-Capstone-Project.git 
 2. Ensure that you have Python installed
@@ -38,21 +46,13 @@
 4. Run the `main.py` file using Python from an IDE (integrated development environment)
 5. Follow the on-screen instructions to navigate through the application and manage Doctor and Patient Data
 
+
 ## Dependencies
 - Python 3.x
 - Tabulate: for displaying Data in formatted tables
+
 
 ## Setup environment
 ```
 pip install tabulate
 ```
-
-## Presentation
-Canva Link: -
-
-## System Flowchart
-### main.py
-Drop Flowchart
-### User/login_as_baker.py
-Drop Flowchart
-
