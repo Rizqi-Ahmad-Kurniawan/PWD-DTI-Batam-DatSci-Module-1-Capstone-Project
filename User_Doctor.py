@@ -10,7 +10,7 @@ def display_patientData():
     header = ["Patient ID", "Doctor ID", "Name", "Age", "Gender", "Diagnosis", "Lab Results", "Allergies"]
 
     if not MainDB:
-        print("\nNo patients present !!!")
+        print("\nNo Patients present !!!")
     else:
         print("\n ===== PATIENT HEALTH RECORDS ===== ")
         # Creating Iterable Object
