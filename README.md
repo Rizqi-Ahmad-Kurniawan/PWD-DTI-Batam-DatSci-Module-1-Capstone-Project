@@ -11,7 +11,7 @@
 - The theme/case of the CLI-App is to create a Medical Data Management System (with user authentication) where "Admins" can manage Doctor and Patient Data and "Doctors" can view and edit (input/renew) Patient data as needed.
 
 ## Features (main | explicit)
-as Admin ->
+  as Admin ->
 - Display patient data
 - Display doctor data
 - Add patient data
@@ -20,7 +20,7 @@ as Admin ->
 - Edit doctor data
 - Delete patient data
 - Delete doctor data
-as Doctor ->
+  as Doctor ->
 - Display patient data
 - Edit patient data (MedData)
 
