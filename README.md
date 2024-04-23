@@ -4,7 +4,7 @@
 
 
 ## Presentation (visual overview)
-Canva Link: -
+Canva Link: https://www.canva.com/design/DAGDP-iVE18/F4EyiVI7CxlgxhAd_ddBCQ/view?utm_content=DAGDP-iVE18&utm_campaign=designshare&utm_medium=link&utm_source=editor  
 
 
 ## Overview
