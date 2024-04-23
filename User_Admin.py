@@ -12,7 +12,7 @@ def display_doctorData():
     header = ["Doctor ID", "Speciality", "Name", "Age", "Gender", "Phone", "Citizen ID"]
 
     if not MainDB:
-        print("\nNo patients present !!!")
+        print("\nNo Doctors present !!!")
     else:
         print("\n ===== DOCTOR RECORDS ===== ")
         # Creating Iterable Object
