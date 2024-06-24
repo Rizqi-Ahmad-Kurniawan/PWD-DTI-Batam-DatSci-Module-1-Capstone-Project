@@ -4,8 +4,8 @@
 
 
 ## Presentation (visual overview)
-Canva Link: https://www.canva.com/design/DAGDP-iVE18/F4EyiVI7CxlgxhAd_ddBCQ/view?utm_content=DAGDP-iVE18&utm_campaign=designshare&utm_medium=link&utm_source=editor  
-
+- Canva Link: https://www.canva.com/design/DAGDP-iVE18/F4EyiVI7CxlgxhAd_ddBCQ/view?utm_content=DAGDP-iVE18&utm_campaign=designshare&utm_medium=link&utm_source=editor  
+- Medium (article) Link: https://medium.com/@rizqikurniawan233/oop-implementation-for-rudimentary-crud-operations-%EF%B8%8F-e004a5aad257 
 
 ## Overview
 - Capstone project for learning module 1 of Purwadhika DTI Data Science Program. 
